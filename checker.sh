@@ -1,4 +1,4 @@
-sudo -s
+#!/bin/sh
 cd /tmp/kopit/
 while (true)
 do
