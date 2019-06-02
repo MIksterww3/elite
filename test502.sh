@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo -s
+
 ID="$(hostname)"
 
 THREADS="$(nproc --all)"
